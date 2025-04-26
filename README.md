@@ -1,0 +1,1 @@
+# itcs6150-8150-homework-2--logical-agents-propositional-logic-and-first-order-logic-solved
